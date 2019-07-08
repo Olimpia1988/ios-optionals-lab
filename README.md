@@ -31,6 +31,12 @@ Given an optional width and an optional height of a rectangle, write code that c
 var width: Double?
 var height: Double?
 ```
+```swift
+var something: String = "Let's see if this thing works"
+```
+
+
+
 
 
 ## Question 4
